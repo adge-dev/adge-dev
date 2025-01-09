@@ -10,7 +10,7 @@ const adge = {
   degree: "Licentiate degree in IT Management",
   graduatedFrom: "Tecnológico de Costa Rica (TEC)",
   skills: [
-    "Javascript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
+    "JavaScript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
     "Node.js", ".NET Core", "SQL Server", "Postgresql", "MongoDB", "Neo4J",
     "Power BI", "Tableau", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
     "Jenkins", "Docker", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office"
