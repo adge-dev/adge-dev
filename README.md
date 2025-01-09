@@ -3,14 +3,15 @@
 ```js
 const adge = {
   name: "Andrés David Gutiérrez Espinoza",
+  alias: "Guti",
   age: 24,
   country: "Costa Rica",
   city: "Cartago",
   degree: "Licentiate degree in IT Management",
   graduatedFrom: "Tecnológico de Costa Rica (TEC)",
   skills: [
-    "Javascript", "TypeScript", "C#", "Python", "R", "Java", "React", ".NET Core",
-    "Node.js", "Nextjs", "SQL Server", "Postgresql", "MongoDB", "Neo4J",
+    "Javascript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
+    "Node.js", ".NET Core", "SQL Server", "Postgresql", "MongoDB", "Neo4J",
     "Power BI", "Tableau", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
     "Jenkins", "Docker", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office"
   ],
