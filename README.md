@@ -36,4 +36,5 @@ const adge = {
   },
   currentlyLearning: ["Kubernetes", "AWS"],
   openToWork: true,
+  portfolio: "adge.vercel.app",
 };
