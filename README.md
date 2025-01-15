@@ -12,8 +12,8 @@ const adge = {
   skills: [
     "JavaScript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
     "Node.js", ".NET Core", "SQL Server", "Postgresql", "MongoDB", "Neo4J",
-    "Power BI", "Tableau", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
-    "Jenkins", "Docker", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office",
+    "Power BI", "Tableau", "Excel", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
+    "Jenkins", "Docker", "AWS", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office",
     "Machine Learning", "AI",
   ],
   competences: [
@@ -34,7 +34,7 @@ const adge = {
     linkedin: "https://linkedin.com/in/agutierrezespinoza",
     github: "https://github.com/adge-dev",
   },
-  currentlyLearning: ["Kubernetes", "AWS"],
+  currentlyLearning: ["Kubernetes", "GraphQL"],
   openToWork: true,
   portfolio: "adge.vercel.app",
 };
