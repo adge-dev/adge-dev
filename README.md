@@ -11,7 +11,7 @@ const adge = {
   graduatedFrom: "Tecnológico de Costa Rica (TEC)",
   skills: [
     "JavaScript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
-    "Node.js", ".NET Core", "SQL Server", "Postgresql", "MongoDB", "Neo4J",
+    "Node.js", ".NET Core", "SQL Server", "PostgreSQL", "MongoDB", "Neo4J",
     "Power BI", "Tableau", "Excel", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
     "Jenkins", "Docker", "AWS", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office",
     "Machine Learning", "AI",
