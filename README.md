@@ -10,7 +10,7 @@ const adge = {
   degree: "Licentiate degree in IT Management",
   graduatedFrom: "Tecnológico de Costa Rica (TEC)",
   skills: [
-    "JavaScript", "TypeScript", "C#", "Python", "R", "Java", "React", "Nextjs",
+    "JavaScript", "TypeScript", "C#", "Python", "R", "Java", "JQuery", "React", "Nextjs",
     "Node.js", ".NET Core", "SQL Server", "PostgreSQL", "MongoDB", "Neo4J",
     "Power BI", "Tableau", "Excel", "Git", "Github", "Gitlab", "DevOps", "CI/CD",
     "Jenkins", "Docker", "AWS", "SCRUM", "Kanban", "COBIT2019", "ITIL", "MS Office",
@@ -35,6 +35,6 @@ const adge = {
     github: "https://github.com/adge-dev",
   },
   currentlyLearning: ["Kubernetes", "GraphQL"],
-  openToWork: true,
+  openToWork: false,
   portfolio: "adge.vercel.app",
 };
